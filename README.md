@@ -4,5 +4,5 @@ Each language in this dataset contains 1000 rows/paragraphs.
 
 After data selection and preprocessing I used the 22 selective languages from the original dataset Which Includes following Languages
 
-⦁ English ⦁ Arabic ⦁ French ⦁ Hindi ⦁ Urdu ⦁ Portuguese ⦁ Persian ⦁ Pushto ⦁ Spanish ⦁ Korean ⦁ Tamil ⦁ Turkish ⦁ Estonian ⦁ Russian ⦁ Romanian ⦁ Chinese ⦁ Swedish ⦁ Latin ⦁ German ⦁ Dutch ⦁ Japanese ⦁ Thai
+⦁ English ⦁ Arabic ⦁ French ⦁ Hindi ⦁ Urdu ⦁ Portuguese ⦁ Persian ⦁ Pushto ⦁ Spanish ⦁ Korean ⦁ Tamil ⦁ Turkish ⦁ Estonian ⦁ Russian ⦁ Romanian ⦁ Chinese ⦁ Swedish ⦁ Latin ⦁ German ⦁ Dutch ⦁ Japanese ⦁ Thai<br>
 <b>Accuracy of the model is 93.56%.</b> 
